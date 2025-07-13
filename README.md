@@ -14,7 +14,7 @@ Welcome to my fork of **uYouPlus**! This repository is your one-stop source for 
 
 ### 📥 **Download**
 
-Find the latest releases [**here**](https://github.com/mlclmtan/uYouPlus/releases/latest). Download and install the iPA directly.
+Find the latest releases [**here**](https://github.com/Sj09-gnc/uYouPlus-R/releases). Download and install the iPA directly.
 
 ---
 
@@ -32,3 +32,6 @@ Click the "Watch" button at the top of this page and select **"Releases only"** 
 ---
 
 Thank you for visiting! Enjoy your enhanced YouTube experience with **uYouPlus**.
+
+
+Source used from [**qnblackcat**](https://github.com/qnblackcat/uYouPlus)
