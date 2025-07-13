@@ -4,10 +4,10 @@ Welcome to my fork of **uYouPlus**! This repository is your one-stop source for 
 
 ---
 
-### 🚀 **Why This Repo?**
+### 🚀 **Bug and Fix**
 
-- **Ready-to-Use iPA Files**: No need to build the project yourself — just download and install!
-- **Stay Updated**: Subscribe to releases and never miss an update.
+- *Full Screen*: [**here**](https://github.com/Sj09-gnc/uYouPlus/wiki/App-becomes-unresponsive-when-trying-to-exit-fullscreen)
+- *Icon not work*: [**here**](https://github.com/Sj09-gnc/uYouPlus/wiki/Icon-not-work)
 - **Compatibility**: Supports iOS/iPadOS 14.0 or later.
 
 ---
